@@ -1,0 +1,3 @@
+[submodule "MS-Caminhao-gateway"]
+	path = MS-Caminhao-gateway
+	url = https://github.com/wellingtonhiago/MS-Caminhao-gateway
