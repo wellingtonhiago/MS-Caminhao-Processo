@@ -1,3 +1,21 @@
 [submodule "MS-Caminhao-gateway"]
 	path = MS-Caminhao-gateway
 	url = https://github.com/wellingtonhiago/MS-Caminhao-gateway
+[submodule "MS-Caminhao-Camunda"]
+	path = MS-Caminhao-Camunda
+	url = https://github.com/wellingtonhiago/MS-Caminhao-Camunda.git
+[submodule "MS-Caminhao-server"]
+	path = MS-Caminhao-server
+	url = https://github.com/wellingtonhiago/MS-Caminhao-server.git
+[submodule "MS-Caminhao-saida"]
+	path = MS-Caminhao-saida
+	url = https://github.com/wellingtonhiago/MS-Caminhao-saida.git
+[submodule "MS-Caminhao-descarga"]
+	path = MS-Caminhao-descarga
+	url = https://github.com/wellingtonhiago/MS-Caminhao-descarga.git
+[submodule "MS-Caminhao-carga"]
+	path = MS-Caminhao-carga
+	url = https://github.com/wellingtonhiago/MS-Caminhao-carga.git
+[submodule "MS-Caminhao-netty"]
+	path = MS-Caminhao-netty
+	url = https://github.com/wellingtonhiago/MS-Caminhao-netty.git
