@@ -19,3 +19,6 @@
 [submodule "MS-Caminhao-netty"]
 	path = MS-Caminhao-netty
 	url = https://github.com/wellingtonhiago/MS-Caminhao-netty.git
+[submodule "MS-Caminhao-caminhao"]
+	path = MS-Caminhao-caminhao
+	url = https://github.com/wellingtonhiago/MS-Caminhao-caminhao.git
